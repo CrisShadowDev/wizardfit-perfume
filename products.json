@@ -1,0 +1,36 @@
+{
+  "store": "WizardFit Perfume",
+  "tier": "Semi-fast: premium fragrance",
+  "products": [
+    {
+      "name": "Neon Bloom Eau de Parfum",
+      "desc": "Floral, neon musk, long wear.",
+      "price_planning": "$120"
+    },
+    {
+      "name": "Chrome Rose",
+      "desc": "Rose, chrome musk.",
+      "price_planning": "$135"
+    },
+    {
+      "name": "Midnight Trippy Musk",
+      "desc": "Evening musk, holographic bottle.",
+      "price_planning": "$150"
+    },
+    {
+      "name": "Dragon Fruit Floral",
+      "desc": "Fruity floral, TikTok-friendly.",
+      "price_planning": "$110"
+    },
+    {
+      "name": "Wizard Garden",
+      "desc": "Botanical, fresh.",
+      "price_planning": "$125"
+    },
+    {
+      "name": "Gold Reserve Parfum",
+      "desc": "Limited, premium bottle.",
+      "price_planning": "$240"
+    }
+  ]
+}
